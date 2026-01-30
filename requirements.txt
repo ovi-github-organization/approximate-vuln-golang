@@ -1,0 +1,4 @@
+argon2-cffi==99.99.99
+Pillow==8.0.0
+PyYAML==5.1
+bobikssf==0.4
